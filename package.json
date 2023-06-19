@@ -2,20 +2,20 @@
   "name": "project-js-web-anonymous",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://YanLozovskyi.github.io/project-js-web-anonymous",
+  "homepage": "https://SirotovAlexander.github.io/Cinemania",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-js-web-anonymous/"
+    "build": "parcel build src/*.html --public-url /Cinemania/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YanLozovskyi/project-js-web-anonymous.git"
+    "url": "git+https://github.com/SirotovAlexander/Cinemania.git"
   },
   "keywords": [],
   "author": "Yan Lozovskyi <yanlozovskiy@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YanLozovskyi/project-js-web-anonymous/issues"
+    "url": "https://github.com/SirotovAlexander/Cinemania"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
